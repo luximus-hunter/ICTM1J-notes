@@ -1,5 +1,5 @@
 # Dictionary
 
-Hier staan alle afkortingen gebruikt in alle documenten.
+Hier staan alle afkortingen gebruikt in alle documenten.
 
-`A&FO` = `Analyse & Functioneel Ontwerp`
+`A&FO` = `Analyse & Functioneel Ontwerp`

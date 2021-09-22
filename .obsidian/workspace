@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "9fdb524ca1127cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f75d05764796fa5",
+        "type": "leaf",
+        "dimension": 49.743589743589745,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dictionary.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9569fd2e9342bdda"
+      },
+      {
+        "id": "e52b3ba45b1f0f00",
+        "type": "leaf",
+        "dimension": 50.256410256410255,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Dictionary.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.2972991379961014,
+              "close": true
+            }
+          }
+        },
+        "group": "9569fd2e9342bdda"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e7ab932275f3e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "958f9d0f2ac145f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b45f3cbeb8598ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e31ebcc562372211",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "855178351c654a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "262680211d54cd82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c180cb7c4dc0b907",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dictionary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e52b3ba45b1f0f00",
+  "lastOpenFiles": [
+    "Dictionary.md",
+    "Home.md",
+    "afo/AFO.md",
+    "php/PHP.md",
+    "sql/SQL.md",
+    "sql/22-09-2021.md",
+    "php/Untitled.md",
+    "Untitled.md",
+    "afo/22-09-2021.md",
+    "afo/Untitled.md"
+  ]
+}
