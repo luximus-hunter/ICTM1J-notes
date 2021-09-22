@@ -11,4 +11,6 @@ Alle notities zijn onderverdeeld in mappen en benoemd volgens een standaard:
 
 Alles is met een `-` uit elkaar gezet.
 
+Verder staan alle vakken in mappen in de root van deze map (bijvoorbeeld 'sql').
+
 *Voor afkortingen kan gekeken worden in de [dictionary](./dictionary.md)*
