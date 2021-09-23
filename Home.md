@@ -13,8 +13,6 @@ Alle notities zijn onderverdeeld in mappen en benoemd volgens een stan
 
 Alles is met een `-` uit elkaar gezet.
 
-*Voor afkortingen kan gekeken worden in de [dictionary](./dictionary.md)*
-
 ## Documenten
 
 - [SQL](./sql/SQL.md)
