@@ -6,7 +6,6 @@ In deze repo komen alle notities van alle colleges voor de klas ICTM
 
 Alle notities zijn onderverdeeld in mappen en benoemd volgens een standaard:
 
-- `h` of `w` voor hoorcollege of werkcollege
 - dag
 - maand
 - jaar

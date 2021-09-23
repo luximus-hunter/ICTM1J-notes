@@ -4,54 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f75d05764796fa5",
+        "id": "59a9dc777e11247b",
         "type": "leaf",
-        "dimension": 49.743589743589745,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dictionary.md",
+            "file": "php/week38/22-09-2021.md",
             "mode": "preview"
           }
-        },
-        "group": "9569fd2e9342bdda"
-      },
-      {
-        "id": "e52b3ba45b1f0f00",
-        "type": "leaf",
-        "dimension": 50.256410256410255,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Dictionary.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 0.2972991379961014,
-              "close": true
-            }
-          }
-        },
-        "group": "9569fd2e9342bdda"
+        }
       }
     ],
     "direction": "vertical"
@@ -107,35 +68,66 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionary.md",
+                "file": "php/week38/22-09-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "65be78a62fb12a7b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "php/week38/22-09-2021.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "8733a58a29968d41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "php/week38/22-09-2021.md"
+              }
+            }
+          },
+          {
+            "id": "1bc2430738305558",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e52b3ba45b1f0f00",
+  "active": "59a9dc777e11247b",
   "lastOpenFiles": [
-    "Dictionary.md",
-    "Home.md",
-    "afo/AFO.md",
+    "php/week38/22-09-2021.md",
     "php/PHP.md",
+    "Home.md",
     "sql/SQL.md",
-    "sql/22-09-2021.md",
-    "php/Untitled.md",
-    "Untitled.md",
-    "afo/22-09-2021.md",
-    "afo/Untitled.md"
+    "sql/week38/22-09-2021.md",
+    "Dictionary.md",
+    "afo/week38/22-09-2021.md",
+    "assets/afo/22-09-2021/piramide-requirement-niveaus.png",
+    "php/22-09-2021.md",
+    "sql/22-09-2021.md"
   ]
 }
