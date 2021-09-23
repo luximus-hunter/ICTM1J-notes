@@ -1,17 +1,6 @@
 # ICTM1J Notes
 
-In deze repo komen alle notities van alle colleges voor de klas ICTM1J.
-
-## Naamgeving
-
-Alle notities zijn onderverdeeld in mappen en benoemd volgens een standaard:
-
-- jaar
-- maand
-- dag
-- `H` of `W` voor hoor- of werk college.
-
-Alles is met een `-` uit elkaar gezet.
+In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar alle documenten die bij dat vak horen.
 
 ## Documenten
 
