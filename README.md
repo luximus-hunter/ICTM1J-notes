@@ -8,13 +8,4 @@ Voor de beste leeservaring kun je het beste [Obsidian](https://obsidian.md/) ins
 
 ## Home
 
-Om te beginnen ga je naar de [Home](./Home.md).
-
-%%
-
-TODO
-
-- Fix de links van de pagina's zodat ze werken zonder `-`.
-- Netter maken [2021-09-24-W](afo/week38/2021-09-24-W.md)
-
-%%
+Om te beginnen ga je naar de [Home](Home.md).
