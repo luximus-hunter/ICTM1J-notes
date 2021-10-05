@@ -4,8 +4,8 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 
 ## Documenten
 
-- [SQL](sql/SQL.md)
-- [PHP](php/PHP.md)
+- [SQL](sql/SQL.md) %% Voeg inhoudsopgave toe %%
+- [PHP](php/PHP.md) %% aan alle pagina's %%
 - [AFO](afo/AFO.md)
 
 ## Naamgeving
