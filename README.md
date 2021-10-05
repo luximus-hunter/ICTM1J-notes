@@ -1,6 +1,6 @@
 # Notities voor klas ICTM1J
 
-## Instalatie
+## Installatie
 
 ### Git
 
@@ -14,7 +14,7 @@ Om te downloaden, open de plek waar je de map wilt opslaan in de command-line. A
 
 Voor de beste leeservaring kun je het beste [Obsidian](https://obsidian.md/) installeren en deze repository daarin open. Je kunt de folder die je hebt gedownload openen als een `Vault`. Zet daarna de preview mode aan om de markdown te converteren naar leesbare tekst.
 
-*Tip: gebruik de plugin [Obsidian Git](https://github.com/denolehov/obsidian-git). Hiermee kun je instellen dat je bij het openen van Obsidian alle veranderingen pulled.*
+_Tip: gebruik de plugin [Obsidian Git](https://github.com/denolehov/obsidian-git). Hiermee kun je instellen dat je bij het openen van Obsidian alle veranderingen pulled._
 
 ## Home
 
