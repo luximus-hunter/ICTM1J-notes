@@ -18,4 +18,4 @@ Voor de beste leeservaring kun je het beste [Obsidian](https://obsidian.md/) ins
 
 ## Home
 
-Om te beginnen ga je naar de [Home](Home.md).
+Om te beginnen ga je naar de [Home](Home.md). Je hoeft daarna niet meer terug naar dit bestand.
