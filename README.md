@@ -17,7 +17,11 @@ Voor de beste leeservaring kun je het beste [Obsidian](https://obsidian.md/) ins
 ### Obsidian extensions
 
 - [Obsidian Git](https://github.com/denolehov/obsidian-git). Hiermee kun je instellen dat je bij het openen van Obsidian alle veranderingen download van GitHub.
-- [Admonition](). Hiermee worden informatie en waarschuwings blokken goed weergegeven.
+- [Admonition](https://github.com/valentine195/obsidian-admonition). Hiermee worden informatie en waarschuwings blokken goed weergegeven.
+
+```ad-note
+Als dit wordt weegeven als een `Note`, dan werkt de Admo
+```
 
 ## Home
 
