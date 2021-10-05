@@ -20,7 +20,7 @@ Voor de beste leeservaring kun je het beste [Obsidian](https://obsidian.md/) ins
 - [Admonition](https://github.com/valentine195/obsidian-admonition). Hiermee worden informatie en waarschuwings blokken goed weergegeven.
 
 ```ad-note
-Als dit wordt weegeven als een `Note`, dan werkt de Admo
+Als dit wordt weegeven als een `Note`, dan werkt de Admonition extensie.
 ```
 
 ## Home
