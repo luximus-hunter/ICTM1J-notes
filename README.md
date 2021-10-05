@@ -1,5 +1,11 @@
 # Notities voor klas ICTM1J
 
+## Instalatie
+
+### Git
+
+Installeer [Git](https://git-scm.com/). Loop de installatie door zoals je zelf 
+
 ## Obsidian
 
 Voor de beste leeservaring kun je het beste [Obsidian](https://obsidian.md/) installeren en deze repository daarin open. Zet daarna de preview mode aan om de markdown te converteren naar leesbare tekst.
