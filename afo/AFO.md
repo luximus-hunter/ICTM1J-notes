@@ -3,6 +3,12 @@
 ## Inhoud
 
 - [Falende Projecten](week38/AFO-2021-09-22-H.md#Falende%20Projecten)
+- [Requirements analyse](week38/AFO-2021-09-22-H.md##requirements%20analyse)
+- [Requirement niveaus](week38/AFO-2021-09-22-H.md##requirement%20niveaus)
+- [Feature use](week38/AFO-2021-09-22-H.md##feature%20use)
+- [Functionele en niet-functionele requirements](week38/AFO-2021-09-22-H.md##functionele%20en%20niet-functionele%20requirements)
+
+
 
 ## Bestanden
 
