@@ -21,6 +21,10 @@
 - [AND, OR, en haakjes](week39/SQL-2021-09-30-H.md#AND%20OR%20en%20haakjes)
 - [SQL Injectie](week39/SQL-2021-09-30-H.md#SQL%20Injectie)
 
+%% Spacer %%
+
+- [Bulk insert](week40/SQL-2021-10-06-T.md#Bulk%20insert)
+
 ## Bestanden
 
 - [SQL-2021-09-22-H](week38/SQL-2021-09-22-H.md)
