@@ -26,7 +26,13 @@ Als dit wordt weegeven als een `Test`, dan werkt de Admonition extensie.
 
 ### Pull foutmelding
 
-Als je de [Obsidian Git](#Obsidian%20extensions) hebt geïnstalleerd en deze geeft een foutmelding bij het opstarten, dan kun je het volgende doen. Open [de folder waar de notities staan](#Downloaden) opnieuw in de command-line. Daar kun je de volgende commando's 
+Als je de [Obsidian Git](#Obsidian%20extensions) hebt geïnstalleerd en deze geeft een foutmelding bij het opstarten, dan kun je het volgende doen. Sluit Obsidia en open [de folder waar de notities staan](#Downloaden) opnieuw in de command-line. Daar kun je de volgende commando's uitvoeren. Daarna kun je Obsidian weer openen.
+
+```cmd
+git reset --hard
+git clean -fd
+git pull
+```
 
 ## Home
 
