@@ -24,7 +24,9 @@ title: Test
 Als dit wordt weegeven als een `Test`, dan werkt de Admonition extensie.
 ```
 
-### Pull failed foutmelding
+### Pull foutmelding
+
+Als je de [Obsidian Git](#Obsidian%20extensions) hebt geinstalleerd en deze geeft een foutmelding bij het opstarten, da
 
 ## Home
 
