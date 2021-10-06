@@ -24,6 +24,8 @@ title: Test
 Als dit wordt weegeven als een `Test`, dan werkt de Admonition extensie.
 ```
 
+### Pull failed foutmelding
+
 ## Home
 
 Om te beginnen ga je naar de [Home](Home.md). Je hoeft daarna niet meer terug naar dit bestand.
