@@ -1,6 +1,6 @@
 # SQL
 
-[[in]]
+[Volle inhoudsopgave](SQL-INDEX.md)
 
 - [SQL-2021-09-22-H](week38/SQL-2021-09-22-H.md)
 - [SQL-2021-09-23-W](week38/SQL-2021-09-23-W.md)
