@@ -25,6 +25,13 @@
 
 - [Bulk insert](week40/SQL-2021-10-06-T.md#Bulk%20insert)
 
+%% Spacer %%
+
+- [Outer join](week40/SQL-2021-10-07-H.md#Outer%20join)
+- [LEFT](week40/SQL-2021-10-07-H.md#LEFT)
+- [RIGHT](week40/SQL-2021-10-07-H.md#RIGHT)
+- [Self join](week40/SQL-2021-10-07-H.md#Self%20join)
+
 ## Bestanden
 
 - [SQL-2021-09-22-H](week38/SQL-2021-09-22-H.md)
