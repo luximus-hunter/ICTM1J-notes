@@ -1,4 +1,4 @@
-# Inhoud
+# Inhoudsopgave
 
 - [SELECT](week38/SQL-2021-09-22-H.md#SELECT)
 - [INSERT](week38/SQL-2021-09-22-H.md#INSERT)
