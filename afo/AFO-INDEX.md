@@ -17,4 +17,4 @@
 
 %% Spacer %%
 
-- [Usecase diagram](week40/AFO-2021-10-05-W.md#Usecase%20diagram)
+- [Use case diagram](week40/AFO-2021-10-05-W.md#Use%20case%20diagram)
