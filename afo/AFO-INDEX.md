@@ -21,7 +21,6 @@
 
 %% Spacer %%
 
-[[afo-2021-10-07-h]]
-- [Use case](#Use%20case)
-- [User story vs use case](#User%20story%20vs%20use%20case)
-- [Use case diagram](#Use%20case%20diagram)
+- [Use case](week40/AFO-2021-10-07-H.md#Use%20case)
+- [User story vs use case](week40/AFO-2021-10-07-H.md#User%20story%20vs%20use%20case)
+- [Use case diagram](week40/AFO-2021-10-07-H.md#Use%20case%20diagram)
