@@ -1,1 +1,1 @@
-npx prettier --write **/*.md
+npx prettier -w **/*.md
