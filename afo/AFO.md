@@ -1,6 +1,6 @@
 # AFO
 
-[AFO-INDEX](AFO-INDEX.md)
+[Inhoudsopgave](AFO-INDEX.md)
 
 - [AFO-2021-09-22-H](week38/AFO-2021-09-22-H.md)
 - [AFO-2021-09-24-W](week38/AFO-2021-09-24-W.md)

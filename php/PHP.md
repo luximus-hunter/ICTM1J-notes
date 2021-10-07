@@ -1,5 +1,7 @@
 # PHP
 
+[Inhoudsopgave](PHP-INDEX.md)
+
 ## Inhoud
 
 - [Variabelen](week38/PHP-2021-09-22-H.md#Variabelen)
