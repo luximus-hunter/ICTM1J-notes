@@ -2,7 +2,7 @@
 
 ## Home
 
-Om te beginnen ga je naar de [Home](Home.md). Je hoeft daarna niet meer terug naar dit bestand.
+Om te beginnen ga je naar de [HOME](HOME.md). Je hoeft daarna niet meer terug naar dit bestand.
 
 ## Installatie
 
