@@ -1,1 +1,1 @@
-code .
+code-insiders.cmd .
