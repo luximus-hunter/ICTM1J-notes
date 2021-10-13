@@ -6,9 +6,15 @@
 - [DELETE](week38/SQL-2021-09-22-H.md#DELETE)
 - [Vergelijkingen](week38/SQL-2021-09-22-H.md#Vergelijkingen)
 
-|  | [SELECT](week38/SQL-2021-09-22-H.md#SELECT) |
-| ---------- | ------------------------------------------- |
-| 22/09/2021           |                                             |
+|    Dag     | Hoofdstuk                                   |
+|:----------:|:------------------------------------------- |
+| 22/09/2021 | [SELECT](week38/SQL-2021-09-22-H.md#SELECT) |
+|            | [INSERT](week38/SQL-2021-09-22-H.md#INSERT)                                            |
+|            | [UPDATE](week38/SQL-2021-09-22-H.md#UPDATE)                                            |
+|            | [DELETE](week38/SQL-2021-09-22-H.md#DELETE)                                            |
+|            | [Vergelijkingen](week38/SQL-2021-09-22-H.md#Vergelijkingen)                                            |
+|            |                                             |
+|            |                                             |
 
 %% Spacer %%
 
