@@ -1,11 +1,5 @@
 # Inhoudsopgave
 
-- [SELECT](week38/SQL-2021-09-22-H.md#SELECT)
-- [INSERT](week38/SQL-2021-09-22-H.md#INSERT)
-- [UPDATE](week38/SQL-2021-09-22-H.md#UPDATE)
-- [DELETE](week38/SQL-2021-09-22-H.md#DELETE)
-- [Vergelijkingen](week38/SQL-2021-09-22-H.md#Vergelijkingen)
-
 | Dag        | Hoofdstuk                                                   |
 |:---------- |:----------------------------------------------------------- |
 | 22/09/2021 | [SELECT](week38/SQL-2021-09-22-H.md#SELECT)                 |
@@ -17,16 +11,6 @@
 |            | [ERD](week38/SQL-2021-09-23-W.md#ERD)                       |
 | 29/09/2021 | [Toets 1](week39/SQL-2021-09-29-T.md#Toets%201)             |
 |            |                                                             |
-%% Spacer %%
-
-- [Keys](week38/SQL-2021-09-23-W.md#Keys)
-- [ERD](week38/SQL-2021-09-23-W.md#ERD)
-
-%% Spacer %%
-
-- [Toets 1](week39/SQL-2021-09-29-T.md#Toets%201)
-
-%% Spacer %%
 
 - [JOIN](week39/SQL-2021-09-30-H.md#JOIN)
 - [ON](week39/SQL-2021-09-30-H.md#ON)
