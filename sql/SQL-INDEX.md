@@ -6,6 +6,10 @@
 - [DELETE](week38/SQL-2021-09-22-H.md#DELETE)
 - [Vergelijkingen](week38/SQL-2021-09-22-H.md#Vergelijkingen)
 
+|  | [SELECT](week38/SQL-2021-09-22-H.md#SELECT) |
+| ---------- | ------------------------------------------- |
+| 22/09/2021           |                                             |
+
 %% Spacer %%
 
 - [Keys](week38/SQL-2021-09-23-W.md#Keys)
