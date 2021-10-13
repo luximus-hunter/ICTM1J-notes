@@ -13,7 +13,7 @@
 
 %% Spacer %%
 
-- [[sql-2021-09-]]
+- [Toets 1](week39/SQL-2021-09-29-T.md#Toets%201)
 
 %% Spacer %%
 
