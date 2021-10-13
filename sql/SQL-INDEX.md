@@ -23,6 +23,7 @@
 
 - [Bulk insert](week40/SQL-2021-10-06-T.md#Bulk%20insert)
 - [BETWEEN](week40/SQL-2021-10-06-T.md#BETWEEN)
+- [Toets 2](week40/SQL-2021-10-06-T.md#Toets%202)
 
 %% Spacer %%
 
@@ -30,3 +31,7 @@
 - [LEFT](week40/SQL-2021-10-07-H.md#LEFT)
 - [RIGHT](week40/SQL-2021-10-07-H.md#RIGHT)
 - [Self join](week40/SQL-2021-10-07-H.md#Self%20join)
+
+%% Spacer %%
+
+- [Toets 3](week41/SQL-2021-10-12-T.md#Toets%203)
