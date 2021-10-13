@@ -13,6 +13,10 @@
 
 %% Spacer %%
 
+- [[]]
+
+%% Spacer %%
+
 - [JOIN](week39/SQL-2021-09-30-H.md#JOIN)
 - [ON](week39/SQL-2021-09-30-H.md#ON)
 - [AS](week39/SQL-2021-09-30-H.md#AS)
