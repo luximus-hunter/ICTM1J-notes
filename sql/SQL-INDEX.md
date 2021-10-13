@@ -15,7 +15,8 @@
 |            | [Vergelijkingen](week38/SQL-2021-09-22-H.md#Vergelijkingen) |
 | 23/09/2021 | [Keys](week38/SQL-2021-09-23-W.md#Keys)                     |
 |            | [ERD](week38/SQL-2021-09-23-W.md#ERD)                       |
-
+| 29/09/2021 | [Toets 1](week39/SQL-2021-09-29-T.md#Toets%201)             |
+|            |                                                             |
 %% Spacer %%
 
 - [Keys](week38/SQL-2021-09-23-W.md#Keys)
