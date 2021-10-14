@@ -1,7 +1,7 @@
 # Inhoudsopgave
 
 | Dag        | Hoofdstuk                                                                 |
-|:---------- |:------------------------------------------------------------------------- |
+| :--------- | :------------------------------------------------------------------------ |
 | 22/09/2021 | [SELECT](week38/SQL-2021-09-22-H.md#SELECT)                               |
 |            | [INSERT](week38/SQL-2021-09-22-H.md#INSERT)                               |
 |            | [UPDATE](week38/SQL-2021-09-22-H.md#UPDATE)                               |
@@ -23,7 +23,7 @@
 |            | [RIGHT](week40/SQL-2021-10-07-H.md#RIGHT)                                 |
 |            | [Self join](week40/SQL-2021-10-07-H.md#Self%20join)                       |
 | 12/10/2021 | [Toets 3](week41/SQL-2021-10-12-T.md#Toets%203)                           |
-| 14/10/2021 |                                                                           |
-|            |                                                                           |
-|            |                                                                           |
-|            |                                                                           |
+| 14/10/2021 | [Subquery IN deel 2](week41/SQL-2021-10-14-H.md#Subquery%20IN%20deel%202) |
+|            | [AS Deel 2](week41/SQL-2021-10-14-H.md#AS%20Deel%202)                     |
+|            | [Functies](week41/SQL-2021-10-14-H.md#Functies)                           |
+|            | [Custom functies](SQL-2021-10-14-H.md#Custom%20functies)                  |
