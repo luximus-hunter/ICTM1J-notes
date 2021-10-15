@@ -14,3 +14,4 @@
 | 07/10/2021 | [Use case](week40/AFO-2021-10-07-H.md#Use%20case)                                                                               |
 |            | [User story vs use case](week40/AFO-2021-10-07-H.md#User%20story%20vs%20use%20case)                                             |
 |            | [Use case diagram](week40/AFO-2021-10-07-H.md#Use%20case%20diagram)                                                             |
+| 14/10/2021 | [Domeinmodel](week41/AFO-2021-10-14-H.md#Domeinmodel)                                                                           |
