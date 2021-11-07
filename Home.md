@@ -34,8 +34,8 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 - [x] For-loop
 - [x] While-loop
 - [x] Shorthand operators
-- [ ] Array's
-- [ ] For-each
+- [x] Array's
+- [x] For-each
 - [x] Eigen functies
 - [x] Include
 - [x] Webformulieren
@@ -67,3 +67,4 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 - [x] AS Deel 2
 - [x] Functies
 - [x] Custom functies
+- [ ] Toets 4
