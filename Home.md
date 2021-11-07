@@ -67,3 +67,5 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 - [x] AS Deel 2
 - [x] Functies
 - [x] Custom functies
+
+[For-each](php/week41/PHP-2021-10-11-W.md#For-each)
