@@ -27,3 +27,4 @@
 |            | [AS Deel 2](week41/SQL-2021-10-14-H.md#AS%20Deel%202)                     |
 |            | [Functies](week41/SQL-2021-10-14-H.md#Functies)                           |
 |            | [Custom functies](SQL-2021-10-14-H.md#Custom%20functies)                  |
+| 10/27/2021 | [Toets 4](week43/SQL-2021-10-27-T.md#Toets%204)                           |
