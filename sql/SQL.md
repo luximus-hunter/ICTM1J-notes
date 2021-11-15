@@ -12,5 +12,3 @@
 - [SQL-2021-10-14-H](week41/SQL-2021-10-14-H.md)
 - [SQL-2021-10-27-T](week43/SQL-2021-10-27-T.md)
 - [SQL-2021-10-28-H](week43/SQL-2021-10-28-H.md)
-
-%% Toevoegen toets 4 %%
