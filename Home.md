@@ -10,6 +10,10 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 
 ## TODO List
 
+### DBS
+
+- [ ] Hoorcollege 15/11
+
 ### AFO
 
 - [x] Falende projecten
