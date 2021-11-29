@@ -7,6 +7,8 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 - [SQL](sql/SQL.md)
 - [PHP](php/PHP.md)
 - [AFO](afo/AFO.md)
+- [PKG](pkg/PKG.md)
+- [DBS](dbs/DBS.md)
 
 ## TODO List
 
