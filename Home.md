@@ -15,6 +15,17 @@ In de lijst hieronder staan alle vakken. Klik op een vak om door te gaan naar al
 ### DBS
 
 - [ ] Hoorcollege 15/11
+- [ ] Hoorcollege 22/11
+- [ ] Hoorcollege 29/11
+- [x] Hoorcollege 06/12
+
+### PKG
+
+- [ ] Hoorcolleges
+
+### SEC
+
+- [ ] Hoorcolleges
 
 ### AFO
 
